@@ -32,5 +32,5 @@ Built with **Python** — pandas, NumPy, seaborn, matplotlib, and scikit-learn.
 
 | File | Description |
 |---|---|
-| [`Crop_Recommendation.csv`](https://github.com/haziqrozman/CropRecommendationProgrammingDataAnalytic/blob/e6d6c3a0526af2fa31d8726f937aa13c3a60c4a5/Crop_Recommendation.csv) | Raw dataset — soil nutrients and environmental conditions per crop |
-| [`Crop Recommendation.ipynb`](https://github.com/haziqrozman/CropRecommendationProgrammingDataAnalytic/blob/e6d6c3a0526af2fa31d8726f937aa13c3a60c4a5/Crop%20Recommendation.ipynb) | Jupyter notebook with full analysis, visualizations, and models |
+| [`crop-recommendation.csv`](https://github.com/haziqrozman/crop-recommendation-data-analysis-predictive-modeling/blob/f1a1a4cfb7bfa7ecb892b4a9cd45e0a4ea52c054/crop-recommendation.csv) | Raw dataset — soil nutrients and environmental conditions per crop |
+| [`crop-recommendation.ipynb`](https://github.com/haziqrozman/crop-recommendation-data-analysis-predictive-modeling/blob/40e08e9248ac8098bf982514a7cfb7180fa6f064/crop-recommendation.ipynb) | Jupyter notebook with full analysis, visualizations, and models |
